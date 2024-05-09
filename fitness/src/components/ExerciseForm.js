@@ -10,7 +10,7 @@ const ExerciseForm = ({ addExercise }) => {
   const handleSubmit = (e) => {
     e.preventDefault();
     const newExercise = {
-      id: Math.random(), // Generate a unique id
+      id: math.random(), // Generate a unique id
       name,
       sets,
       reps,
