@@ -14,7 +14,7 @@ const App = () => {
 
   return (
     <div>
-      <h1>Fitness Tracker</h1>
+      <h1></h1>
       <ExerciseForm addExercise={addExercise} />
       <ExerciseList exercises={exercises} />
       <Navbar />

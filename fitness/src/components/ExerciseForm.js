@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import './ExerciseForm.css';
 
 const ExerciseForm = ({ addExercise }) => {
   const [name, setName] = useState('');

@@ -6,6 +6,8 @@ function Navbar() {
         <h4>sleep</h4>
         <h2>grind</h2>
         <h3>repeat</h3>
+        
+
     </div>
     
   )
